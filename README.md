@@ -8,7 +8,7 @@ Um hospital local está desenvolvendo um novo sistema para substituir planilhas 
 # Os-Segredos-do-Hospital
 {PARTE2}<br>
 
-![Diagrama2](/Os_segredos_do_hospital/os-segredos-do-hospital.png)
+![Diagrama2](Os segredos do hospital/os-segredos-do-hospital.png)
 
 
 
