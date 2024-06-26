@@ -12,6 +12,12 @@ Após a primeira versão do projeto de banco de dados para o sistema hospitalar,
 
 ![Diagrama2](Os_segredos_do_hospital/os-segredos-do-hospital.png)
 
+# O-Prisioneiro-dos-Dados 
+{PARTE3}<br>
+
+Você pode encontrar os scripts SQL na pasta [Hospital_sql](Hospital_sql/Hospital_2.sql).
+
+
 
 
 
