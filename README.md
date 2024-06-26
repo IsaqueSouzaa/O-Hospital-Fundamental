@@ -19,6 +19,13 @@ Com o banco de dados para o sistema hospitalar completamente montado, é necess�
 
 Você pode encontrar os scripts SQL na pasta [Hospital_sql](Hospital_sql/Hospital_2.sql).
 
+ # Alterando-o-Banco-de-Dados
+{PARTE4}<br>
+
+Um banco de dados pode sofrer alterações ao longo da sua concepção e do seu desenvolvimento. Nesse momento devemos nos preparar para atualizar nossas estratégias. 
+
+Você pode encontrar os scripts SQL na pasta [Hospital_sql](Hospital_sql/Hospital_alterado.sql).
+
 
 
 
