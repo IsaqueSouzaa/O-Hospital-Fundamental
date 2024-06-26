@@ -15,6 +15,8 @@ Após a primeira versão do projeto de banco de dados para o sistema hospitalar,
 # O-Prisioneiro-dos-Dados 
 {PARTE3}<br>
 
+Com o banco de dados para o sistema hospitalar completamente montado, é necessário incluir dados para realizar os devidos testes e validar sua viabilidade quanto ao sistema. Nesta etapa, também é importante realizar a separação de alguns scripts iniciais para o banco, com os dados que serão necessários a um povoamento inicial do sistema.
+
 Você pode encontrar os scripts SQL na pasta [Hospital_sql](Hospital_sql/Hospital_2.sql).
 
 
